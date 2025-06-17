@@ -1,6 +1,3 @@
-# calculator
-Simple calculator in Python
-
 # Simple Python Calculator 🧮
 
 This is a simple **command-line calculator** written in Python.  
